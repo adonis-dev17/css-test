@@ -35,3 +35,13 @@ div.artist{
     background-color: black;
     color: white;
 }
+div.bg-main{
+    position: relative;
+}
+.nav-main{
+    position: absolute;
+    top: 300px;
+}
+.nav-main li{
+    color: white;
+}
